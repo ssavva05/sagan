@@ -548,7 +548,7 @@ body.dark {
 
       &.active {
         background: #99e67d;
-
+        color: $dark-background;
         a {
           color: $dark-background;
         }
@@ -556,6 +556,7 @@ body.dark {
 
       &.migrate {
         background: #ffe88e;
+        color: $dark-background;
 
         a {
           color: $dark-background;
